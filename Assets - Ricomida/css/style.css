@@ -1,0 +1,49 @@
+.logo1{
+font-family: 'Lobster', cursive;
+font-size: 30px;
+}
+
+body{
+font-family: 'Cabin', sans-serif;
+}
+
+.bg-rojo{
+background-color: #DC3545;
+height:400px;
+}
+
+.subtexto{
+
+font-size: 30px;
+text-align: center;
+}
+
+.subtextopequeño{
+font-size: 20px;
+text-align: center;
+}
+
+
+.logo2{
+font-family: 'Lobster', cursive;
+font-size: 20px;
+width: 400px;
+}
+
+
+.logo3{
+font-family: 'Lobster', cursive;
+font-size: 30px;
+}
+
+*{
+margin: 0;  
+}
+
+hr{ 
+display: block; 
+height: 1px;
+border: 0; 
+border-top: 2px solid #6e6666;
+margin: 1em 0; padding: 0; 
+}
